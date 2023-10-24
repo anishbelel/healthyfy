@@ -1,0 +1,25 @@
+.form-control{
+    background-color: black;
+    
+}
+.form-control::placeholder{
+    color: white
+}
+
+.navbar-brand{
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.btn{
+    color: white;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.navbar {
+    background-color: #f40a0a; 
+}
+.color{
+    
+    color:black;
+}
